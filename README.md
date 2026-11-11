@@ -1,25 +1,29 @@
-# Kelll31
+<p align="center">
+  <img src="assets/profile-cover.jpg" alt="Kelll31" width="100%">
+</p>
 
-Разрабатываю инструменты для разработчиков, приложения с локальными ИИ-моделями и проекты на стыке софта и железа.
+<p align="center">
+  <strong>Локальный ИИ · автоматизация · софт и железо</strong><br>
+  <a href="https://kelll31.github.io/business-card-website/">Личный сайт ↗</a>
+</p>
 
-## About Me
+### About Me
 
-Мне интересно, что локальные модели могут делать на обычном компьютере: как подключить их к привычным инструментам и сократить время на рутинные задачи. У меня есть опыт в пентесте, который помогает учитывать безопасность при разработке.
+Делаю инструменты для разработчиков, экспериментирую со звуком и микроконтроллерами. Раньше занимался пентестом.
 
-## Проекты
+### Проекты
 
-- [Offload](https://github.com/Kelll31/offload) — приложение для Windows, которое подключает локальную модель к Codex, Claude Code и другим инструментам разработки через MCP.
-- [ZYRON](https://github.com/Kelll31/ZYRON) — DJ-приложение на C++ с автоматическим сведением, синхронизацией по биту и разделением треков на стемы в реальном времени.
-- [Патрик](https://github.com/Kelll31/Atom-Terminal-Pet) — настольный питомец на M5Stack. Принимает голосовые команды и выполняет задачи на компьютере через MCP.
+| Проект | Что делает |
+| :--- | :--- |
+| [**Offload**](https://github.com/Kelll31/offload) | Подключает локальные модели к Codex, Claude Code и другим инструментам через MCP. |
+| [**ZYRON**](https://github.com/Kelll31/ZYRON) | Сводит музыку и разделяет треки на стемы в реальном времени. |
+| [**Патрик**](https://github.com/Kelll31/Atom-Terminal-Pet) | Голосовой питомец на M5Stack, который выполняет задачи на компьютере. |
 
-**Стек** · Python, C#, C++, TypeScript · llama.cpp, MCP, JUCE, M5Stack
+`Python` · `C#` · `C++` · `TypeScript` · `MCP`
 
-## 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kelll31/kelll31/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kelll31/kelll31/output/github-contribution-grid-snake.svg">
-  <img alt="Анимация активности GitHub в виде змейки" src="https://raw.githubusercontent.com/Kelll31/kelll31/output/github-contribution-grid-snake.svg">
+  <img alt="Анимация активности GitHub в виде змейки" src="https://raw.githubusercontent.com/Kelll31/kelll31/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
-[Сайт](https://kelll31.github.io/business-card-website/)
