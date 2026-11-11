@@ -7,20 +7,6 @@
   <a href="https://kelll31.github.io/business-card-website/">Личный сайт ↗</a>
 </p>
 
-### About Me
-
-Делаю инструменты для разработчиков, экспериментирую со звуком и микроконтроллерами. Раньше занимался пентестом.
-
-### Проекты
-
-| Проект | Что делает |
-| :--- | :--- |
-| [**Offload**](https://github.com/Kelll31/offload) | Подключает локальные модели к Codex, Claude Code и другим инструментам через MCP. |
-| [**ZYRON**](https://github.com/Kelll31/ZYRON) | Сводит музыку и разделяет треки на стемы в реальном времени. |
-| [**Патрик**](https://github.com/Kelll31/Atom-Terminal-Pet) | Голосовой питомец на M5Stack, который выполняет задачи на компьютере. |
-
-`Python` · `C#` · `C++` · `TypeScript` · `MCP`
-
 ### Contribution Snake
 
 <picture>
